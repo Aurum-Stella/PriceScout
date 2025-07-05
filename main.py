@@ -10,8 +10,6 @@ import json
 
 
 
-
-
 # response = httpx.get("https://eko.zakaz.ua/uk/categories/dairy-and-eggs-ekomarket/?page=1")
 
 start_link = httpx.get("https://eko.zakaz.ua/uk/")
