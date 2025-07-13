@@ -1,0 +1,77 @@
+{
+    "MegaMarket": {
+        "shop_name": "MegaMarket",
+        "shop_link": "https://megamarket.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\MegaMarket.html"
+    },
+    "Supermarket \"Kharkiv\"": {
+        "shop_name": "Supermarket \"Kharkiv\"",
+        "shop_link": "https://kharkiv.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\Supermarket_Kharkiv_.html"
+    },
+    "Za Raz": {
+        "shop_name": "Za Raz",
+        "shop_link": "https://zaraz.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\ZaRaz.html"
+    },
+    "MasterZoo": {
+        "shop_name": "MasterZoo",
+        "shop_link": "https://masterzoo.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\MasterZoo.html"
+    },
+    "NOVUS": {
+        "shop_name": "NOVUS",
+        "shop_link": "https://novus.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\NOVUS.html"
+    },
+    "WINETIME": {
+        "shop_name": "WINETIME",
+        "shop_link": "https://winetime.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\WINETIME.html"
+    },
+    "Tavria V": {
+        "shop_name": "Tavria V",
+        "shop_link": "https://tavriav.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\TavriaV.html"
+    },
+    "ULTRAMARKET": {
+        "shop_name": "ULTRAMARKET",
+        "shop_link": "https://ultramarket.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\ULTRAMARKET.html"
+    },
+    "Auchan": {
+        "shop_name": "Auchan",
+        "shop_link": "https://auchan.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\Auchan.html"
+    },
+    "EKO Market": {
+        "shop_name": "EKO Market",
+        "shop_link": "https://eko.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\EKOMarket.html"
+    },
+    "METRO": {
+        "shop_name": "METRO",
+        "shop_link": "https://metro.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\METRO.html"
+    },
+    "AlcoHub": {
+        "shop_name": "AlcoHub",
+        "shop_link": "https://alcohub.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\AlcoHub.html"
+    },
+    "COSMOS": {
+        "shop_name": "COSMOS",
+        "shop_link": "https://cosmos.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\COSMOS.html"
+    },
+    "Vostorg": {
+        "shop_name": "Vostorg",
+        "shop_link": "https://vostorg.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\Vostorg.html"
+    },
+    "Biotus": {
+        "shop_name": "Biotus",
+        "shop_link": "https://biotus.zakaz.ua/uk/",
+        "shop_file_path": "аdditional\\shop\\Biotus.html"
+    }
+}

@@ -101,3 +101,6 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 
+# with open('index.html', 'r', encoding='UTF-8') as f:
+#     soup = BeautifulSoup(f.read(), 'html.parser')
+    # print(soup.find(attrs={"data-marker": "Products Box"}))

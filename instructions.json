@@ -1,0 +1,5 @@
+{
+        "main_page": {"data-sentry-element": "FlexListStyled"},
+        "shop": {"data-marker": "First Level Categories Menu"},
+        "shop_categories": {"data-marker": "Products Box"}
+}
