@@ -57,7 +57,7 @@ async def scrap_with_async_playwright(link):
 
 
 async def process_instruction(pool, instruction):
-    id, url, child_attribute, type_, parent_id = instruction
+    date, id, url, child_attribute, type_, parent_id = instruction
 
     for n in range(1, 9999):
         await asyncio.sleep(1)
